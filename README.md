@@ -4,3 +4,7 @@ This is an simple IP grabber tool for local and public ip addresses you can eith
 
 
 ![alt text](https://i.imgur.com/jITX7xy.png)
+
+
+
+![alt text](https://i.imgur.com/z3C1kBq.png)
