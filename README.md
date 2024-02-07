@@ -1,5 +1,5 @@
 ## IP Tool
-This is an simple IP grabber tool for local and public ip addresses
+This is an simple IP grabber tool for local and public ip addresses you can either copy them
 
 
 
